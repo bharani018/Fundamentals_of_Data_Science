@@ -1,0 +1,11 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,StreamingTV,StreamingMovies,Contract,PaperlessBilling,MonthlyCharges,Churn
+1,Male,0,No,No,24,Yes,No,DSL,No,No,No,Month-to-month,No,70.65,No
+2,Female,0,Yes,No,12,Yes,No,Fiber optic,Yes,No,No,Two year,Yes,94.50,No
+3,Male,1,No,No,6,Yes,No,DSL,Yes,Yes,No,Month-to-month,No,64.50,Yes
+4,Female,0,No,No,3,Yes,No,DSL,No,No,No,Month-to-month,No,51.20,No
+5,Male,0,Yes,No,12,Yes,No,Fiber optic,Yes,Yes,No,Two year,Yes,104.95,No
+6,Female,1,No,Yes,18,Yes,Yes,DSL,Yes,No,No,Month-to-month,No,70.70,No
+7,Male,0,No,No,24,Yes,No,Fiber optic,No,No,No,Month-to-month,No,79.95,No
+8,Female,1,Yes,No,12,Yes,No,Fiber optic,Yes,Yes,No,Two year,Yes,114.99,No
+9,Male,0,No,No,12,Yes,No,DSL,Yes,Yes,No,Month-to-month,No,70.70,No
+10,Female,1,Yes,Yes,24,Yes,Yes,Fiber optic,Yes,Yes,Yes,Two year,Yes,189.95,No

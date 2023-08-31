@@ -1,0 +1,28 @@
+city,date,temperature
+New York,2023-01-01,32
+New York,2023-01-02,34
+New York,2023-01-03,35
+New York,2023-01-04,30
+New York,2023-01-05,33
+New York,2023-01-06,31
+New York,2023-01-07,37
+New York,2023-01-08,39
+New York,2023-01-09,36
+Los Angeles,2023-01-01,68
+Los Angeles,2023-01-02,70
+Los Angeles,2023-01-03,72
+Los Angeles,2023-01-04,70
+Los Angeles,2023-01-05,73
+Los Angeles,2023-01-06,69
+Los Angeles,2023-01-07,75
+Los Angeles,2023-01-08,77
+Los Angeles,2023-01-09,74
+Chicago,2023-01-01,25
+Chicago,2023-01-02,28
+Chicago,2023-01-03,30
+Chicago,2023-01-04,23
+Chicago,2023-01-05,29
+Chicago,2023-01-06,27
+Chicago,2023-01-07,32
+Chicago,2023-01-08,35
+Chicago,2023-01-09,31
